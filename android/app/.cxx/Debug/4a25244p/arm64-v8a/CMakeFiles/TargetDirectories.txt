@@ -1,0 +1,2 @@
+/Users/shadiahmed/Documents/remain/android/app/.cxx/Debug/4a25244p/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shadiahmed/Documents/remain/android/app/.cxx/Debug/4a25244p/arm64-v8a/CMakeFiles/rebuild_cache.dir

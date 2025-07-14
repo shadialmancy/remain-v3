@@ -1,0 +1,631 @@
+{
+    "@@locale": "ar",
+    "language":"اللغة",
+    "en":"English",
+    "ar":"عربي",
+
+    "alert":"تنبيه",
+    "doUWantToExitTheApp":"هل تريد الخروج من التطبيق؟",
+    "yes":"نعم",
+    "no":"لا",
+    "fullName" : "الاسم بالكامل",
+    "didntReceiveTheVerificationCode" : "لم تستلم رمز التحقق؟",
+    "resend" : "إعادة إرسال",
+    "selectYourDateOfBirth" : "اخنر تاريخ ميلادك",
+    "pleaseSelectYourDateOfBirth" : "الرجاء اخنر تاريخ ميلادك",
+
+    "skip":"تخطي",
+    "next":"التالي",
+    "easiestWayToBookBestDoctors":"أسهل طريقة لحجز مواعيد مع أفضل الأطباء",
+    "urMedicineInUrHands":"دواؤك بين يديك في أي وقت",
+    "allUrMedicalNeedsInOnePlace":"جميع احتياجاتك الطبية في مكان واحد",
+    "welcome":"أهلا بك!",
+    "toLoginWritePhoneNumber" : "تسجيل الدخول إلى حسابك، يرجى إدخال الرقم بشكل صحيح وسيتم إرسال رمز التفعيل لمرة واحدة عبر الرسائل القصيرة",
+    "phoneNumber" : "رقم الجوال",
+    "nationalID" : "رقم الهوية/الاقامة",
+    "onboardingText2" : "تمتع بالعديد من الخدمات الطبية الشاملة من استشارات جلدية وطلب أدويتك و احصل على الرعاية المنزلية، واستفد من استشارات طبية مباشرة في أي وقت.",
+    "enterNationalID" : "أدخل رقم الهوية",
+    "enterPhoneNumber" : "رقم الجوال",
+    "enterDateOfBirth" : "اخنر تاريخ ميلادك",
+    "dateOfBirth" : "تاريخ الميلاد",
+    "enterYourMedicalFileNumber" : "ادخل رقم ملفك الطبي",
+    "dontHaveAccount" : "ليس لديك حساب ؟",
+    "registerAccount" : "قم بانشاء حساب",
+    "verifCode" : "رمز التحقق",
+    "continueTxt" : "متابعة",
+    "enterFullName" : "ادخل اسمك رباعي",
+    "pleaseEnterNationalID" : "الرجاء إدخال رقم الهوية/الاقامة",
+
+    "pleaseEnterFullName" : "الرجاء إدخال اسمك رباعي",
+    "pleaseEnterCity" : "الرجاء إدخال مدينتك",
+    "pleaseEnterDistrict" : "الرجاء إدخال اسم الحي",
+    "createAnAccount":"انشاء حساب",
+    "onboardingText1" : "مرحبًا بك في تطبيق مجمع ريمين الطبي! نلتزم بتقديم رعاية صحية متميزة وسهلة الوصول لمتابعة مواعيدك وفحوصاتك الطبية بكل سهولة.",
+    "pleaseEnterPhoneNumber" : "الرجاء إدخال رقم الهاتف",
+    "enterYourLocation":"ادخل  موقعك",
+
+
+   "firstName" : "الاسم الاول",
+    "enterFirstName" : "ادخل الاسم الاول",
+    "fatherName" : "اسم الاب",
+    "enterFatherName" : "ادخل اسم الاب",
+    "grandFatherName" : "اسم الجد",
+    "enterGrandFatherName" : "ادخل اسم الجد",
+    "familyName" : "اسم العائلة",
+    "enterFamilyName" : "ادخل اسم العائلة",
+    "city" : "المدينة",
+    "enterYourCity" : "ادخل مدينتك",
+    "district" : "الحي",
+    "enterYourDistrict" : "ادخل اسم الحي",
+    "nextOfKinName" : "اسم قريب لك",
+    "enterNextOfKinName" : "ادخل اسم قريب لك",
+    "nextOfKinPhoneNumber" : "رقم هاتف قريب لك",
+    "enterNextOfKinPhoneNumber" : "ادخل رقم هاتف قريب لك",
+    "nextOfKinRelationId" : "رقم الهوية الخاص بقريبك",
+    "enterNextOfKinRelationId" : "ادخل رقم الهوية الخاص بقريبك",
+    "religionId" : "الديانة",
+    "enterTheAmount" : "ادخل المبلغ",
+    "email" : "البريد الالكتروني",
+    "enterEmail" : "ادخل بريدك الالكتروني",
+    "pleaseEnterEmail" : "الرجاء إدخال البريد الإلكتروني",
+    "condition" : "الشروط",
+    "and" : "و",
+    "quickSelection" : "الاختيار السريع",
+    "enterYourCardDetails" : "ادخل بيانات بطاقتك",
+    "paymentMethod" : "طريقه الدفع",
+    "save" : "حفظ",
+    "cardholderName" : "اسم حامل البطاقة",
+    "addCard" : "اضف البطاقة ",
+    "emptyValidationError": "لا يمكن أن يكون فارغاً",
+
+    "cardNumber" : "رقم البطاقة",
+    "expirationDate" : "تاريخ انتهاء الصلاحية ",
+    "verificationCodeCVV" : "رمز التحقق CVV",
+    "walletHasBeenSuccessfullyCharged" : "تم شحن المحفظة بنجاح",
+    "backToHome" : "العودة للرئيسية",
+    "enterValidEmail" : "أدخل بريدا إلكترونيا صالحا",
+
+    "addCreditCard" : "اضف البطاقة الإئتمانية", 
+    "home":"الرئيسية",
+    "profile":"البروفايل",
+    "bookAppointment":"حجز موعد",
+    "appointmentsRecords":"سجل المواعيد",
+    "age" : "العمر",
+    "gender" : "النوع",
+    "weight" : "الوزن",
+    "height" : "الطول",
+    "testResults" : "نتائج الفحوصات",
+    "wallet" : "المحفظة",
+    "settings" : "الاعدادات",
+    "editProfile" : "تعديل الملف الشحضي",
+    "year":"سنه",
+    "male" : "ذكر",
+    "female" : "أنثى",
+    "medicalRecord" : "السجل الطبي",
+
+    "kg" : "كجم",
+    "cm" : "سم",
+    "name" : "الاسم",
+    "insuranceNumber" : "الرقم التاميني",
+    "totalBalance" : "اجمالي الرصيد",
+    "sr" : "ر.س",
+    "walletRecharge" : "شحن المحفظه",
+    "previousOperations" : "العمليات السابقة",
+    "showAll" : "عرض الكل",
+    
+
+
+
+    "login":"تسجيل الدخول",
+
+    "confirm":"تأكيد",
+
+
+    "changeApplicationLanguage":"تغيير لغة التطبيق",
+
+    "center":"المجمع",
+
+
+
+    "medicalCenterJaddah":"مجمع ريمين الطبي - جدة",
+    "medicalCenterRawdah":"مجمع ريمين الطبي - الروضه",
+    "medicalCenterQortobah":"مجمع ريمين الطبي - قرطبة",
+
+    
+    "searchForSpecialty":"ابحث عن تخصص",
+
+    "ourServices":"خدماتنا",
+    "viewAll":"عرض الكل",
+
+    "enterYouDataCorrectly":"قم بإدخال البيانات الخاصة بك بشكل صحيح حتى يمكننا الوصول لك بشكل دقيق",
+
+    "skinCare":"الرعاية الجلدية",
+    "healthTrack":"متتبع الصحة",
+    "homeCare":"الرعاية المنزلية",
+    "pharmacy":"صيدلية",
+    "diagnosis":"الفحوصات",
+    "medicalConsultation":"الاستشارات الطبية",
+    "thereAreNoPreviousTransactions":"لا يوجد اي معاملات سابقة",
+    "searchForAnyOperation":"ابحث عن اي عمليه",
+    "reservations" : "الحجوزات",
+    "makeSureFromUrHealth":"تأكد من سلامتك وصحتك من خلال التقييم الصحي المستمرتأكد من سلامتك وصحتك من خلال التقييم الصحي المستمر",
+    "failedToCalculatePayment" : "فشل في حساب الدفع",
+    "noteThat" : "لاحظ أن",
+    "yourSubtotalChargeIs" : "إجمالي الرسوم الفرعية هو",
+    "withVATCostOf" : "مع تكلفة ضريبة القيمة المضافة",
+    "forTotalOf" : "بإجمالي",
+    "subTotal":"المجموع الفرعي",
+    "vat":"ضريبة القيمة المضافة",
+    "total":"الاجمالي",
+    "proceedToPayment" : "انتقل للدفع",
+    "youHaveSuccessfullyRechargedYourWallet" : "لقد قمت بإعادة شحن محفظتك بنجاح",
+    "failedToRechargeTheBalance" : "فشل في إعادة شحن الرصيد",
+
+    "doctorMale":"طبيب",
+    "doctorFemale":"طبيبة",
+    "availableTime":"المواعيد المتاحة",
+    "today":"اليوم",
+    "tomorrow":"غدا",
+    "nextWeek":"الاسبوع القادم",
+    "virtualClinic":"العيادة الافتراضية",
+    "onlineTime":"ميعاد أونلاين",
+    "timeInClinic":"ميعاد في العيادة",
+    "search":"بحث",
+    "close":"الغاء",
+
+    "doctorData":"بيانات الطبيب",
+    "experience":"الخبرة",
+    "patients":"المرضى",
+    "aboutDoctor":"عن الدكتور",
+    "workTime":"مواعيد العمل",
+    "consultationPrice":"سعر الكشف",
+    "sar":"ريال سعودي",
+    "chooseDate":"اختر التاريخ",
+    "chooseYourSuitableDate":"اختر التاريخ المناسب لك",
+    "chooseTime":"اختر الوقت",
+    "confirmReservationInformation":"تأكيد بيانات الحجز",
+    "bookingDetails":"تفاصيل الحجز",
+    "payVia":"الدفع عن طريق",
+    "depiteCard":"البطاقة الائتمانية",
+    "cash":"نقدا",
+    "pay":"دفع",
+    "thankYouForBookingWithUs":"شكرا لك على حجزك معنا",
+    "yourBookingHasBeenConfirmedSuccessfully":"تم حجز الموعد بنجاح",
+    "youHaveBookedAnAppointmentWith":"لقد حجزت موعدا مع",
+    "modifyBookingTime":"تعديل موعد الحجز",
+
+    "readMore":"المزيد",
+    "readLess":"اقل",
+
+    "patient":"مريض",
+
+    "years" : "سنوات",
+
+    "selectAnAppointment":"تحديد موعد",
+
+    "sarWithoutS":"ريال",
+
+
+    "continuing":"استمر",
+
+    "continuing2":"الاستمرار",
+
+    "recordStatements":"سجل الكشوفات",
+    "vaccinationsAndMedications" : "التطعيمات والأدوية",
+    "insurance" : "التأمينات",
+    "sickLeave" : "الأجازات المرضية",
+    "familyAndRelatives" : "الأهل والأقارب",
+    "searchYourMedicalRecord" : "ابحث في سجلك الطبي",
+    "currently": " الحالية",
+    "previous" : "السابقة",
+    "canceled" : "الملغاة",
+    "thereAreNoCurrentAppointments" : "لا يوجد مواعيد حالية",
+    "thereAreNoPreviousAppointments" : "لا يوجد مواعيد سابقة",
+    "thereAreNoCanceledAppointments" : "لا يوجد مواعيد ملغاة",
+    "changeReservation" : "تعديل الحجز",
+    "cancelReservation" : "الغاء الحجز",
+    "reservationDetails" : "تفاصيل الحجز",
+    "rebook" : "اعادة الحجز",
+    "cancel" : "إلغاء",
+    "theReservationHasBeenCancelledSuccessfully" : "تم إلغاء الحجز بنجاح ",
+    "youCanBookAnotherAppointment" : "يمكنك حجز موعد آخر",
+    "newReservation" : "حجز جديد",
+    "youCanModifyTheAppointmentInsteadOfCancelingIt" : "يمكنك تعديل الموعد بدلا من إلغاءه",
+    "analysis" : "التحاليل",
+    "rays" : "الآشعة",
+    "analysisResult" : "نتيجة التحليل",
+    "indicators" : "المؤشرات",
+    "measurementsValues" : "قيم القياسات",
+    "result" : "النتيجة",
+    "vaccinations" : "التطعيمات",
+    "medications" : "الأدوية",
+    "downloadTestResult" : "تحميل نتيجة الفحص",
+    "nameOfMedicine" : "أسم الدواء",
+    "dosage" : "الجرعة",
+    "bookAnAppointment":"حجز موعد",
+    "downloadTreatmentPlan" : "تحميل الخطة العلاجية",
+    "insuranceCompanyName" : "اسم شركة التأمين",
+    "insuranceApprovals" : "موافقات التأمين",
+    "yourInsuranceInformation" : "بينات التأمين الخاصة بك",
+    "insuranceCompany" : "شركة التأمين",
+    "chooseYourInsuranceCompany" : "اخنر شركة التأمين الخاصة بك",
+    "enterYourInsuranceNumber" : "أدخل رقمك التأميني",
+    "expiryDate" : "تاريخ الانتهاء",
+    "selectTheExpiryDateWrittenOnYourInsuranceCard" : "اختر تاريخ الانتهاء المدون على الكارت التأميني",
+    "insuranceCardImage" : "صورة الكارت التأميني",
+    "uploadPictureOfYourInsuranceCardFromHere" : "قم برفع صورة الكارت التأميني من هنا",
+    "serviceEndsIn" : "تنتهي الخدمة في",
+    "itHasBeenApproved" : "تمت الموافقة عليها",
+    "underReview" : "تحت المراجعة",
+    "rejected" : "مرفوضة",
+    "addFamilyMember" : "إضافة فرد من العائلة",
+    "addNewMember" : "إضافة فرد جديد",
+    "selectGender" : "اختر النوع",
+    "medicalHistory" : "التاريخ المرضي",
+    "hasThisPersonEverBeenDiagnosedWithDisease" : "هل سبق ان تم تشخيص هذا الشخص بمرض ما؟",
+    "addDisease" : "أضف المرض",
+    "diseaseName" : "اسم المرض",
+    "writeNameOfDisease" : "اكتب اسم المرض",
+    "yearsOfInjury" : "سنوات الأصابة",
+    "selectYearsOfInjury" : "اختر سنوات الإصابة به",
+    "pleaseSelectYearsOfInjury" : "الرجاء تحديد سنوات الإصابة",
+    "pleaseEnterDiseaseName" : "الرجاء إدخال اسم المرض",
+    "fileIsOpening":"جاري فتح الملف",
+    "pdfPreview":"معاينة PDF",
+    "downloadFile":"تحميل الملف",
+    "fileIsDownloading":"جاري تحميل الملف",
+    "all" : "الكل",
+    "accepted" : "تمت الموافقة",
+    "underProgress" : "قيد الاجراء",
+    "medicalFileNumber" : "رقم الملف الطبي",
+
+    
+    "theMaximumQuantityIsFive" : "الكمية القصوى هي 5",
+    "theItemHasBeenAddedSuccessfully" : "تمت إضافة العنصر بنجاح",
+    "theItemHasBeenRemoved" : "تمت إزالة العنصر",
+    "thisItemIsAlreadyInTheCart":"هذا العنصر موجود بالفعل في سلة التسوق",
+    "@thisItemIsAlreadyInTheCart": {},
+    
+    "testResultAdvice" : "وجود زيادة في سرعة الترسيب. قديكون هذا مؤشر علي وجود التهابات. نحن ننصحك باستشارة الطبيب",
+    "fileMedicalNumber":"رقم الملف الطبي",
+
+    "invalidOtp":"الرمز غير صحيح",
+
+    "chooseMedicalCenter":"اختر المجمع",
+
+
+    "noTimeAvailableInThisDay":"لا يوجد مواعيد متاحة في هذا اليوم",
+
+    "loading":"جاري التحميل",
+    "yourPaymentIsRejected" : "تم رفض الدفع",
+    "youHaveToLoginFirstInOrderToAddThisItemInYourCart" : "يجب عليك تسجيل الدخول أولاً لإضافة هذا العنصر إلى سلة التسوق الخاصة بك",
+
+    "failedToCancelReservation":"فشل في الغاء الحجز",
+    "youMustLoginFirstToProceedWithThePayment" : "يجب عليك تسجيل الدخول أولاً للمتابعة بالدفع",
+    "paymentForOffersOrder" : "الدفع لطلب العروض",
+    "congratulationsYourPaymentWithTabbyHasBeenConfirmed" : "تهانينا! تم تأكيد دفعتك مع تابي",
+    "congratulationsYourPaymentWithTamaraHasBeenConfirmed" : "تهانينا! تم تأكيد دفعتك مع تمارا",
+    "failedToPay":"فشل في الدفع",
+
+    "payNow":"ادفع الان",
+
+    "thereIsNoRecordStatementData" : "لا يوجد بيانات بيان السجل",
+    "thereIsNoLabResultData" : "لا توجد بيانات نتيجة المختبر",
+    "thereIsNoRayResultData" : "لا توجد بيانات نتيجة الشعاع",
+    "rescheduleTheAppointment":"إعادة جدولة الموعد",
+    "thereIsNoPrescriptionData" : "لا توجد بيانات وصفة طبية",
+    "thereIsNoOfferData" : "لا يوجد بيانات العرض",
+    "theCartIsEmpty":"العربة فارغة",
+
+    "yourBookingHasBeenRescheduledSuccessfully":"تمت إعادة جدولة الموعد بنجاح",
+
+    "failedToRescheduleReservation":"فشل في إعادة جدولة الحجز",
+
+    "paymentIsDoneSuccessfully":"تم الدفع بنجاح",
+    "paymentFailed":"فشل الدفع",
+    "paymentIsDoneButFailedToSaveTheTransaction":"تم الدفع ولكن فشل حفظ العملية",
+
+    "isPaid":"تم الدفع",
+
+    "youArentAuthorizedToAccessThisPage":"ليس لديك الصلاحية للوصول إلى هذه الصفحة",
+
+    "logout":"تسجيل الخروج",
+    "noDataAvailableNow" : "لا يوجد بيانات متاحه الان ",
+
+    "serviceNotAvailableYetComingSoon":"الخدمة غير متوفرة حاليا، قريبا",
+
+    "pleaseLoginFirstToBookAnAppointment":"الرجاء تسجيل الدخول أولا لحجز موعد",
+
+    "appointmentBookingWithDr":"حجز موعد مع د. ",
+
+    "sar2":"ريال",
+
+    "offers":"العروض",
+
+    "viewTheOffer":"عرض المنتج",
+
+    "price":"السعر",
+
+    "featuresOfTheOffer":"مميزات العرض",
+
+    "addToCart":"أضف إلى السلة",
+
+    "shoppingCart":"سلة المشتريات",
+    "receiptPrice":"مبلغ الفاتورة",
+    "totalPrice":"إجمالي",
+
+    "confirmTheOrder":"تأكيد الطلب",
+    "performTheOrder":"تنفيذ الطلب",
+
+    "tabby":"تابي",
+    "tamara":"تمارا",
+
+    "dermatologyAndBeauty":"الجلدية والتجميل",
+
+    "medicalInsurance":"التأمين الطبي",
+    "laboratoryAndxRayResults":"نتائج المختبر والأشعة",
+
+    "homeDoctorsVisit":"زيارة طبيب منزلية",
+    "homeAnalysisService":"خدمة التحاليل المنزلية",
+    "homePhysicalTherapy":"العلاج الطبيعي المنزلي",
+
+    "theService":"الخدمة",
+    "prescriptionImage":"صورة الوصفة الطبية",
+    "uploadYourPrescriptionImageHere":"قم برفع صورة الوصفة الطبية من هنا",
+    "uploadedSuccessfully":"تم التحميل بنجاح",
+    "patientAddress":"عنوان المريض",
+    "visitPrice":"سعر الزيارة",
+    "patientData":"بيانات المريض",
+
+    "myBills":"فواتيري",
+
+    "downloadTheBill":"تحميل الفاتورة",
+    "examinations" : "الفحوصات",
+    "searchForExaminations":"ابحث عن الفحوصات",
+    "importantExaminations" : "أهم الفحوصات",
+    "examinationDetails" : "تفاصيل الفحص",
+    "examinationResults" : "تحليل النتائج",
+    "aboutExaminations" : "عن التحليل",
+    "reportingResults" : "إبلاغ النتائج",
+    "youNeedtoSelectMedicalCenterFirstInOrderToViewTheAvailableData" : "يجب عليك تحديد المركز الطبي أولاً حتى تتمكن من الاطلاع على البيانات المتاحة",
+    "drSaeedForSkinCareAndDermatology":"عيادات د. سعيد للجلدية والتجميل",
+
+    "comingSoon":"قريبا",
+
+    "offerDetails":"تفاصيل العرض",
+    
+    "homeCareBundle":"حزمة الرعاية المنزلية",
+    "@homeCareBundle": {},
+    "searchForBundle":"البحث عن الحزمة",
+    "@searchForBundle": {},
+    "importantBundles":"حزمة مهمة",
+    "@importantBundles": {},
+    "selectService":"اختيار الخدمه",
+    "@selectService": {},
+
+    "noServicesFound":"لا يوجد خدمات متاحه",
+    "@noServicesFound": {},
+
+    "noCareGiversAvailable":"لا يوجد مقدمي خدمة متاحين",
+    "@noCareGiversAvailable": {},
+
+    "services":"الخدمات",
+
+    "careGivers":"مقدمي الخدمة",
+
+    "noTimeSlotsAvailable":"لا يوجد مواعيد متاحة",
+
+    "pleaseSelectTimeSlotFirst":"الرجاء تحديد موعد أولاً",
+
+    "importantServices":"اهم الخدمات",
+    "@importantServices": {},
+
+    "getTheBestDealsOnMedicalServices":"أحصل على أفضل العروض على الخدمات الطبية",
+    "@getTheBestDealsOnMedicalServices": {},
+
+    "browseTheOffers":"تصفح العروض",
+    "@browseTheOffers": {},
+
+    "youHaveAMedicalQuestion":"لديك سؤال طبي؟",
+    "@youHaveAMedicalQuestion": {},
+
+    "consultASpecialistWithin24Hours":"استشر طبيب متخصص في أقل من 24 ساعة",
+    "@consultASpecialistWithin24Hours": {},
+
+    "askNow":"اسأل الآن",
+    "@askNow": {},
+
+    "myAppointments":"مواعيدي",
+    "@myAppointments": {},
+    
+    "youNeedToLoginFirst":"يجب عليك تسجيل الدخول أولاً",
+    "@youNeedToLoginFirst": {},
+
+    "yourOrderHasBeenConfirmed":"طلبك قد تم تأكيده",
+    "@yourOrderHasBeenConfirmed": {},
+
+    "failedToConfirmTheOrder":"فشل في تأكيد الطلب",
+    "@failedToConfirmTheOrder": {},
+
+    "contactUs":"تواصل معنا",
+    "@contactUs": {},
+
+    "laboratoryAndRadiologyResults": "نتائج المختبر والأشعة",
+    "@laboratoryAndRadiologyResults": {},
+
+    "radiology":"الأشعة",
+    "@radiology": {},
+
+    "laboratory":"المختبر",
+    "@laboratory": {},
+
+    "getTheBestHomeMedicalPackages":"أحصل على أفضل الباقات الطبية المنزلية",
+    "@getTheBestHomeMedicalPackages": {},
+
+    "browsePackages":"تصفح الباقات",
+    "@browsePackages": {},
+
+    "myOrders":"طلباتي",
+    "@myOrders": {},
+    "requestSubmittedSuccessfully":"تم تقديم الطلب بنجاح" ,
+    "@requestSubmittedSuccessfully": {},
+    "yourRequestIsNowBeingProcessed":"جاري الان تنفيذ طلبكم" ,
+    "@yourRequestIsNowBeingProcessed": {},
+    "continueBrowsing":"الاستمرار في التصفح" ,
+    "@continueBrowsing": {},
+    "returnToHome":"عودة لرئيسية" ,
+    "@returnToHome": {},
+
+    "thisServiceIsNotAvailableYet":"الخدمة غير متاحة بعد",
+    "@thisServiceIsNotAvailableYet": {},
+
+    "laboratoryResults":"نتائج المختبر",
+    "@laboratoryResults": {},
+
+    "selectThePatient":"اختر المريض",
+    "@selectThePatient": {},
+
+    "goToMyAppointments":"اذهب إلى مواعيدي",
+    "@goToMyAppointments": {},
+
+    "visit": "زيارة",
+    "@visit": {},
+
+    "booking": "حجز",
+    "@booking": {},
+
+    "sickLeaves": "أجازات مرضية",
+    "@sickLeaves": {},
+
+    "rays2": "أشعة",
+    "@rays2": {},
+
+    "anaylses2": "تحاليل",
+    "@anaylses2": {},
+
+    "help": "المساعدة",
+    "@help": {},
+
+    "customerService": "خدمة العملاء",  
+    "@customerService": {},
+    
+    "instantConsultationWithLifeCare":"استشارة فورية مع لايف كير",
+    "@instantConsultationWithLifeCare": {},
+
+    "youCanConsultASpecialistDoctorViaVideoThroughLifeCareFeature":"استشارة طبيب متخصص عبر الفيديو من خلال ميزة لايف كير",
+    "@youCanConsultASpecialistDoctorViaVideoThroughLifeCareFeature": {},
+
+
+    "xrayResults":"نتائج الأشعة",
+    "@xrayResults": {},
+
+    "analysisResults":"نتائج التحاليل",
+    "@analysisResults": {},
+
+    "medicalReports":"التقارير الطبية",
+    "@medicalReports": {},
+
+    "appleWatch":"ساعة أبل",
+    "@appleWatch": {},
+
+    "ourLocations":"مواقعنا",
+    "@ourLocations": {},
+
+    "upcomingAppointments":"المواعيد القادمة",
+    "@upcomingAppointments": {},
+
+    "paymentsDue":"المدفوعات المستحقة",
+    "@paymentsDue": {},
+
+    "viewAll2":"شاهد الكل",
+    "@viewAll2": {},
+
+    "darkMode":"الوضع الداكن",
+    "@darkMode": {},
+
+    "lightMode":"الوضع الفاتح",
+    "@lightMode": {},
+
+    "termsAndConditions":"الشروط والأحكام",
+    "@termsAndConditions": {},
+
+    "privacyPolicy":"سياسة الخصوصية",
+    "@privacyPolicy": {},
+
+    "paymentPolicy":"سياسة الدفع",
+    "@paymentPolicy": {},
+
+    "intellectualPropertyRightsPolicy":"سياسة حقوق الملكية والفكرية",
+    "@intellectualPropertyRightsPolicy": {},
+
+    "termsAndConditionsOfUseOfThePlatform":"أحكام وشروط استخدام المنصة",
+    "@termsAndConditionsOfUseOfThePlatform": {},
+    "contactUsViaWhatsApp":"تواصل معنا عبر الواتساب",
+    "@contactUsViaWhatsApp": {},
+
+
+    "family": "العائلة",
+    "@family": {},
+    "book": "الحجز",
+    "@book": {},
+    "bookings": "الحجوزات",
+    "@bookings": {},
+
+    "previousPayments": "المدفوعات السابقة",
+    "@previousPayments": {},
+
+    "payments": "المدفوعات",
+    "@payments": {},
+
+    "patientName": "اسم المريض",
+    "@patientName": {},
+    "doctorName": "اسم الطبيب",
+    "@doctorName": {},
+    "serviceType": "نوع الخدمة",
+    "@serviceType": {},
+    "servicePrice": "سعر الخدمة",
+    "@servicePrice": {},
+    "bookingDate": "تاريخ الحجز",
+    "@bookingDate": {},
+
+
+    "saudi":"سعودي",
+    "@saudi": {},
+
+    "nationality":"الجنسية",
+    "@nationality": {},
+
+    "foreigner":"أجنبي",
+    "@foreigner": {},
+
+    "serviceSummary": "ملخص الخدمة",
+    "@serviceSummary": {},
+
+    "soon": "قريبا",
+    "@soon": {},
+
+    "noPaymentsDueAtTheMoment": "لا توجد مدفوعات مستحقة في الوقت الحالي",
+    "@noPaymentsDueAtTheMoment": {},
+
+    "goToSettings": "ذهاب إلى الإعدادات",
+    "@goToSettings": {},
+
+    "tryAgain": "إعادة المحاولة",
+    "@tryAgain": {},
+
+    "locationPermissionIsRequiredToShowDirections": "يتطلب إذن الموقع لعرض الاتجاهات. يرجى السماح بالوصول إلى الموقع وإعادة المحاولة.",
+    "@locationPermissionIsRequiredToShowDirections": {},
+
+    "orderNum": "رقم الاوردر",
+    "@orderNum": {},
+
+    "typeOfAnalysis": "نوع التحليل",
+    "@typeOfAnalysis": {},
+
+    "quantity": "الكمية",
+    "@quantity": {},
+
+    "continueToPayment": "الاستمرار إلى الدفع",
+    "@continueToPayment": {}
+
+ }
